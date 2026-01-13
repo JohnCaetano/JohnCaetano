@@ -38,22 +38,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Metrics</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/johncaetano/metrics/main/github-metrics.svg" />
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JohnCaetano/metrics/main/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
