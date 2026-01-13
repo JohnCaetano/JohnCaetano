@@ -38,18 +38,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=johncaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johncaetano&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
