@@ -41,11 +41,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnCaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=johncaetano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCaetanoI&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncaetano&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
